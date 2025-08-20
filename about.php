@@ -60,7 +60,7 @@ include('includes/config.php');
 			</ol>
 		</div>
 	</div>
-	<!-- //page details -->
+	<!-- //page detailsssss -->
 
 	<!-- about -->
 	<section class="about py-5">
